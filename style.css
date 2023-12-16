@@ -1,0 +1,165 @@
+body{
+    background-color: #151515;
+    font-family: 'Space Grotesk',sans-serif;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+.brand-name{
+    color: white;
+    font-size: 32px;
+    text-decoration: none;
+}
+.navbar-items{
+    display: flex;
+    gap: 20px;
+    list-style: none;
+}
+.title{
+    font-size: 80px;
+    color: white;
+
+}
+.p{
+    color: white;
+    font-size: 20px;
+    width: 450px;
+}
+.intro{
+    width: 800px;
+}
+.seyma{
+    border-bottom: 2px solid orange;
+}
+.me{
+    text-decoration: none;
+    color: white;
+    border-bottom: 2px solid orange;
+    margin-top: 200px;
+}
+.html{
+    color: white;
+    font-size: 40px;
+}
+.html-p{
+    color: white;
+    margin-top: -20px;
+}
+.css{
+    color: white;
+    font-size: 40px;
+}
+.css-p{
+    color: white;
+    margin-top: -20px;
+}
+.java{
+    color: white;
+    font-size: 40px;
+}
+.java-p{
+    color: white;
+    margin-top: -20px;
+}
+.acces{
+    color: white;
+    font-size: 40px;
+}
+.acces-p{
+    color: white;
+    margin-top: -20px;
+}
+.react{
+    color: white;
+    font-size: 40px;
+}
+.react-p{
+    color: white;
+    margin-top: -20px;
+}
+.sass{
+    color: white;
+    font-size: 40px;
+}
+.sass-p{
+    color: white;
+    margin-top: -20px;
+}
+.üst{
+    display: flex;
+    justify-content: space-around;
+}
+.alt{
+    display: flex;
+    justify-content: space-around;
+}
+.design{
+    color: white;
+}
+.design-img{
+    max-width: 600px;
+}
+.page{
+    color: white;
+}
+.page-img{
+    max-width: 600px;
+}
+.class-img{
+    display: flex;
+    justify-content: space-around;
+}
+.title-two{
+    font-size: 50px;
+    color: white;
+}
+.class-img-two{
+    display: flex;
+    justify-content: space-around;
+    color: white;
+}
+.web-img{
+    max-width: 600px;
+}
+.app-img{
+    max-width: 600px;
+}
+.class-img-three{
+    display: flex;
+    justify-content: space-around;
+    color: white;
+}
+.game-img{
+    max-width: 600px;
+}
+.art-img{
+    max-width: 600px;
+}
+.form-p{
+    color: white;
+    font-size: 20px;
+    width: 450px;
+}
+.form-title{
+    font-size: 80px;
+    color: white;
+}
+.form-login {
+    display: flex;
+    flex-direction: column;
+}
+.footer{
+        display: flex;
+        justify-content: space-between;
+}
+.brand-name-two{
+    color: white;
+    font-size: 32px;
+    text-decoration: none;
+}
+.navbar-items-two{
+    display: flex;
+    gap: 20px;
+    list-style: none;
+}
